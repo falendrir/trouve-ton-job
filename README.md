@@ -40,7 +40,7 @@ Une application web interactive développée avec **Streamlit** pour scraper des
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/ton-username/trouve-ton-job.git
+git clone https://github.com/falendrir/trouve-ton-job.git
 cd trouve-ton-job
 ```
 
